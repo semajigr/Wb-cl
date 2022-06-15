@@ -1,0 +1,22 @@
+{
+  "name": "kurs",
+  "version": "1.0.0",
+  "description": "Базовая информация о проекте должна храниться здесь",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semajigr/Wb-cl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semajigr/Wb-cl/issues"
+  },
+  "homepage": "https://github.com/semajigr/Wb-cl#readme",
+  "devDependencies": {
+    "parcel": "^2.6.0"
+  }
+}
